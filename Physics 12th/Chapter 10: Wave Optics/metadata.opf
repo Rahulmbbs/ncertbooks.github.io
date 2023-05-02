@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">e153a432-46cd-4b4b-98ea-ba5f6d777ca0</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e153a432-46cd-4b4b-98ea-ba5f6d777ca0</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-19T00:00:00+00:00</dc:date>
+        <dc:title>5227 10</dc:title>
+<meta name="calibre:title_sort" content="5227 10"/>
+<dc:language>eng</dc:language>
+</metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

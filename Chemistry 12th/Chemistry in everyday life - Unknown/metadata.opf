@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Unknown">Unknown</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">911a5437-8b4e-426e-a41f-733f245c2fd1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">911a5437-8b4e-426e-a41f-733f245c2fd1</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-22T00:00:00+00:00</dc:date>
+        <dc:title>Chemistry in everyday life</dc:title>
+<meta name="calibre:title_sort" content="Chemistry in everyday life"/>
+<dc:language>eng</dc:language>
+</metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
